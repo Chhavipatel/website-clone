@@ -1,0 +1,313 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.app{
+    background-color:rgb(29,29,31);
+    color: #f5f5f7;
+    /* display: flex;
+    justify-content: space-around; */
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    margin-left: 150px;
+    margin-right: 150px;
+    
+}
+li{
+    font-size: 14px;
+    font-weight: 400px;
+    font-style: normal;
+    padding-top: 15px;
+    opacity: .8;
+    font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+
+.pa{
+    text-align: center;
+    background-color: #fbfbfd;
+    --text-color: #1d1d1f;
+    font-size: 17px;
+    line-height: 1.47059;
+    font-weight: 400;
+    letter-spacing: -.022em;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-style: normal;
+    padding-top: 10px;
+    opacity: .8;
+}
+a{
+    color: #06c;
+    letter-spacing: inherit;
+    text-decoration: none;
+    font-size: 14px;
+    display: inline-block;
+    padding: 12px 0;
+    cursor: pointer;
+   
+}
+.paa{
+    text-align: center;
+    padding-top: 61px;
+    background-color: #fbfbfd;
+    --text-color: #1d1d1f;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    cursor: pointer;
+}
+h1{
+font-size: 50px;
+}
+.pat{
+    font-size: 17px;
+    line-height: 1.47059;
+    font-weight: 400;
+    font-style: normal;
+}
+.lin{
+    font-size: 30px;
+}
+.paaa{
+    text-align: center;
+    background-color: black;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    cursor: pointer;
+}
+.ih{
+    color: white;
+    font-size: 50px;
+    padding-top: 40px;
+}
+.patt{
+    font-size: 25px;
+    line-height: 1.47059;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+}
+.lint{
+    font-size: 30px;
+}
+.bag{
+    text-align: center;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    cursor: pointer;
+    background: linear-gradient(to top,rgba(0,0,0,0.5)50%,rgba(0, 0, 0, 0.207)50%);
+    background-image: url("https://www.apple.com/v/home/au/images/heroes/airpods-holiday-2022/hero_airpods_holiday__gf6dktxz06eu_mediumtall.jpg");
+     background-position: center;
+     background-size: cover;
+     height: 500px;
+
+}
+.air{
+  color: black;
+    font-size: 53px;
+    font-weight: 700;
+}
+.sho{
+    color: black;
+    font-size: 25px;
+    line-height: 1.47059;
+    font-weight: 400;
+    font-style: normal;
+    padding-top: 8px;
+    /* background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/245f4571-14d4-4069-90a7-259b2971229f/dbbrk81-a0020672-cb9b-40ab-a7a6-32bcfa67c2c2.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzI0NWY0NTcxLTE0ZDQtNDA2OS05MGE3LTI1OWIyOTcxMjI5ZlwvZGJicms4MS1hMDAyMDY3Mi1jYjliLTQwYWItYTdhNi0zMmJjZmE2N2MyYzIuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ZwW4s5wSzXfMAYp-6NF5RA0CNrP_k-J3n8XChSMJ5jk"); */
+    
+
+}
+.ne{
+    /* max-width: 50%; */
+    text-align: center;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    cursor: pointer;
+    background: linear-gradient(to top,rgba(0,0,0,0.5)50%,rgba(0, 0, 0, 0.207)50%);
+    background-image: url("https://www.apple.com/v/home/au/images/promos/ipad/promo_ipad__fioegapg12qi_medium.jpg");
+     background-position: center;
+     background-size: cover;
+     height: 500px;
+     margin-top: 20px;
+     width: 50%;
+    
+}
+.ihe{
+    color:black;
+    font-size: 45px;
+    font-weight: 700;
+    padding-top: 30px;
+}
+.patt9{
+    font-size: 20px;
+    line-height: 1.47059;
+    font-weight: 300;
+    font-style: normal;
+    color: black;
+}
+.lintee{
+    font-size: 30px;
+    padding-top: -2%;
+}
+.nee{
+    /* max-width: 50%; */
+    text-align: center;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    cursor: pointer;
+    background: linear-gradient(to top,rgba(0,0,0,0.5)50%,rgba(0, 0, 0, 0.207)50%);
+    background-image: url("https://www.apple.com/v/home/au/images/promos/ipad-pro/promo_ipadpro__ch217v9v7no2_medium.jpg");
+     background-position: center;
+     background-size: cover;
+     height: 500px;
+     margin-top: 20px;
+     width: 50%;
+
+}
+.nee1{
+    display: flex;
+    justify-content: space-around;
+}
+.neet{
+    text-align: center;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    cursor: pointer;
+    background: linear-gradient(to top,rgba(0,0,0,0.5)50%,rgba(0, 0, 0, 0.207)50%);
+    background-image: url("https://www.apple.com/v/home/au/images/promos/apple-tv-4k/promo_tv4k__d33vaocbii82_medium.jpg");
+     background-position: center;
+     background-size: cover;
+     height: 500px;
+     margin-top: 20px;
+     width: 50%;
+}
+.neett{
+    text-align: center;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    cursor: pointer;
+    background: linear-gradient(to top,rgba(0,0,0,0.5)50%,rgba(0, 0, 0, 0.207)50%);
+    background-image: url("https://www.apple.com/in/home/promos/apple-watch-ultra/images/promo_apple_watch_ultra__gnsqulvdc4a6_medium.jpg");
+     background-position: center;
+     background-size: cover;
+     height: 500px;
+     margin-top: 20px;
+     width: 50%;
+}
+.cha{
+    text-align: center;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    cursor: pointer;
+    background: linear-gradient(to top,rgba(0,0,0,0.5)50%,rgba(0, 0, 0, 0.207)50%);
+    background-image: url("https://www.apple.com/v/home/au/images/promos/apple-watch-series-8/promo_apple_watch_series_8__ch7rexplmihe_medium.jpg");
+     background-position: center;
+     background-size: cover;
+     height: 500px;
+     margin-top: 20px;
+     width: 50%;
+}
+.chav{
+    text-align: center;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    cursor: pointer;
+    background: linear-gradient(to top,rgba(0,0,0,0.5)50%,rgba(0, 0, 0, 0.207)50%);
+    background-image: url("https://www.apple.com/v/home/au/images/promos/macbook-air/promo_macbookair__fywl7i82fueu_medium.png");
+     background-position: center;
+     background-size: cover;
+     height: 500px;
+     margin-top: 20px;
+     width: 50%;
+}
+.patt92{
+    font-size: 20px;
+    line-height: 1.47059;
+    font-weight: 300;
+    font-style: normal;
+    color: white;
+}
+  .phone{
+    color: black;
+    text-align: center;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    cursor: pointer;
+    background-color: #fff;
+  }
+  .phone2{
+    color: #6e6e73;
+    padding-left: 180px;
+    padding-right: 180px;
+    padding-top: 60px;
+    font-size: 12px;
+    line-height: 1.33337;
+    font-weight: 400;
+    letter-spacing: -.01em;
+
+  }
+  .phone3{
+    color: #6e6e73;
+    padding-left: 180px;
+    padding-right: 180px;
+    padding-top: 10px;
+    font-size: 12px;
+    line-height: 1.33337;
+    font-weight: 400;
+    letter-spacing: -.01em;
+  }
+  .phone4{
+    color: #6e6e73;
+    padding-left: 180px;
+    padding-right: 180px;
+    padding-top: 10px;
+    font-size: 12px;
+    line-height: 1.33337;
+    font-weight: 400;
+    letter-spacing: -.01em;
+  }
+  hr{
+  color: #6e6e73;
+    width: 75%;
+ margin-left: auto;
+        margin-right: auto;
+  }
+  .line{
+    margin-top: 10px;
+  }
+ .paper{
+    padding-left: 20px;
+    display: flex;
+    justify-content: space-around;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    cursor: pointer;
+    padding-right: 120px;
+ } 
+  .paper31{
+    color: black;
+    font-size: 20px;
+    padding-top: -5%;
+  }
+ .paper4{
+    list-style: none;
+ } 
+ a{
+    color: grey;
+    font-size: 13px;
+ }
+ .paper3{
+    color: black;
+    font-size: 20px;
+    padding-top: 40px;
+ }
+ .para2{
+    padding-left: 170px;
+    color: grey;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    cursor: pointer;
+    font-size: 13px;
+    padding-top: 50px;
+
+ }
+ .con{
+    padding-left: 170px;
+    color: grey;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-size: 13px;
+    
+ }
+ .con1{
+    column-count: 5;
+ }
